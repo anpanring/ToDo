@@ -15,7 +15,7 @@ class App extends Component {
       <Router>
         <div className="container">
           <nav className="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="https://static.wikia.nocookie.net/cloudywithachanceofmeatballs/images/e/e3/TacodileSupreme.png/revision/latest/scale-to-width-down/280?cb=20130930044135" target="_blank">
+            <a class="navbar-brand" href="https://static.wikia.nocookie.net/cloudywithachanceofmeatballs/images/e/e3/TacodileSupreme.png/revision/latest/scale-to-width-down/280?cb=20130930044135" target="_blank" rel="noreferrer">
               <img src={logo} width="30" height="30" alt="CodingTheSmartWay.com" />
             </a>
             <Link to="/" className="navbar-brand">MERN-Stack Todo App</Link>
